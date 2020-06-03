@@ -1,4 +1,4 @@
-baseURL = "https://heathercl.gitlab.io/entotahugo/"
+baseURL = "https://hcloward.github.io/HCloward.github.io-entota/"
 publishDir= "HCloward.github.io-entota"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
